@@ -1,0 +1,14 @@
+.Container{
+    background-color: #010;
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+}
+
+.TextBox{
+    color: #0F0;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    border: none;
+}
